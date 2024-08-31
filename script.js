@@ -1,5 +1,3 @@
-// script.js
-
 const cells = document.querySelectorAll('.cell');
 const resetButton = document.getElementById('reset');
 let board = ['', '', '', '', '', '', '', '', ''];
